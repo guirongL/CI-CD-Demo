@@ -1,12 +1,1 @@
-##### build the project
-
-    ./gradlew build
-
-##### build Docker image called java-app. Execute from root
-
-    docker build -t java-app .
-    
-##### push image to repo 
-
-    docker tag java-app demo-app:java-1.0
-    
+### this is just an tutorial that i followed a youtuber named: "TechWorld with Nana" and ofc all creadits goes to her
